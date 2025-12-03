@@ -1,6 +1,6 @@
 # PreviewHub
 
-PreviewHub is a responsive demo-hosting platform that showcases live web applications, focusing on secure access, real-time scraping, and modern full-stack integration. It lets users interact with working prototypes—especially the Secure Data Portal—directly in the browser without local setup.
+PreviewHub is a ReactJS application that allows users to scrape basic data from a public website and display it on a centralized platform. The application includes OAuth 2.0 authentication for secure access and provide a responsive design for various devices
 
 ---
 
