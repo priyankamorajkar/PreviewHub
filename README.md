@@ -85,5 +85,7 @@ This project is licensed under the MIT License.
 ## Author: Priyanka Morajkar
 Contact:
 Priyanka Morajkar - priyankamorajkar291@gmail.com
+
 Linkedin - https://www.linkedin.com/in/priyankamorajkar/
+
 Project Link: https://priyankamorajkar.in/PreviewHub/
